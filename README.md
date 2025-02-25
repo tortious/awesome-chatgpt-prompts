@@ -19,6 +19,35 @@
 ---
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+### Terry updates
+
+# Script Tips (General)
+---
+
+1. use ```a farm --no dogs``` to remove stuff. obviously swap dogs with whatever.
+
+2. priority words first.
+
+3. Define color and lighting. ```e.g. pastel colors; neon colors; naturalistic lighting; high contrast; cinematic lighting; dark low lighting; sunny lighting; golden hour lighting```
+
+4. word weight and multi-prompts.
+
+  a massive evil bull::1 on a farm::2 --> this scales the priorirty. you can add more than just 2, as well. 
+
+5. ```outside hot:: dog``` --> this makes it so that the image is hot outside with a dog, and not a hotdog sitting outside.
+
+6. shorter prompts are better.
+
+7. use AI to shorten or sharpen your image prompts, as well.
+
+8. use different photography styles --> ```e.g. ice sculpture; vaporwave graphic; vintage 60s show```
+
+9. Reference themes and people to consolidate descriptions.
+
+10. angles and mood. 
+
+
+
 Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was originally created for [ChatGPT](https://chat.openai.com/chat), these prompts work great with other AI models like [Claude](https://claude.ai/new), [Gemini](https://gemini.google.com), [Hugging Face Chat](https://hf.co/chat), [Llama](https://meta.ai), [Mistral](https://chat.mistral.ai), and more.
 
 [ChatGPT](https://chat.openai.com/chat) is a web interface created by [OpenAI](https://openai.com) that provides access to their GPT (Generative Pre-trained Transformer) language models. The underlying models, like GPT-4o and GPT-o1, are large language models trained on vast amounts of text data that can understand and generate human-like text. Like other AI chat interfaces, you can provide prompts and have natural conversations with the AI, which will generate contextual responses based on the conversation history and your inputs.
